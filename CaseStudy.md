@@ -14,6 +14,8 @@ Su modelo de negocio se basa en suscripciones a la newsletter, permitiendo recib
 ## Proceso
 
 ![Proceso](./Images/Proceso.png)
+
+
 Se pretende evaluar el rediseño de Yuzin y proponer una mejora. Para ello, seguiré los siguientes pasos:
 - **(THINK)  Investigación:** se pretende estudiar cómo funciona el sistema actualmente, pensando en las personas que lo utilizan. Para ello haré una persona ficticia junto con un mapa de experiencia, para evaluar cómo un usuario potencial utiliza la solución web actual. Evaluaré la usabilidad de la misma basándome en la experiencia obtenida y así podré ver sus puntos fuertes y débiles, que me servirán para criticar el diseño actual y poder mejorarlo.
 
