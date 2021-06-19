@@ -110,9 +110,13 @@ Algunas combinaciones utilizadas con la misma no son accesibles, dado que no cum
 ### Prototipo de alta fidelidad - Hi-Fi
 He realizado un prototipo de alta fidelidad de la página principal de Yuzin, dado que creo que es la que se presta a los errores de diseño que más pueden reducir la experiencia de usuarios. 
 
-[Ver en Figma](https://www.figma.com/file/M9rnI8I872eW8qKjSMgSBy/Yuzin?node-id=13%3A2)
+[Ver el diseño Figma](https://www.figma.com/file/M9rnI8I872eW8qKjSMgSBy/Yuzin?node-id=13%3A2)
+
+[Ver la ejecución en Figma](https://www.figma.com/proto/M9rnI8I872eW8qKjSMgSBy/Yuzin?node-id=13%3A2&scaling=min-zoom&page-id=7%3A2)
 
 ![HiFi](./Images/HiFi.png)
+
+![Hifi](./Images/demo.gif)
 
 Nada más entrar, podemos ver una página con un aspecto mucho más moderno. Caben destacar varias cosas:
 - La barra de navegación ocupa todo el ancho de la página. Se puede quedar fijo cuando se haga scroll para facilitar la navegación.

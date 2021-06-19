@@ -18,4 +18,6 @@ Se pretende evaluar el rediseño realizado por Yuzin para su página web y inclu
 
 Mire [aquí](https://github.com/JesusGonzalezA/CaseStudy-Yuzin/blob/master/CaseStudy.md) el caso de estudio completo.
 
-![Hifi](./Images/HiFi.png)
+[Ver la ejecución en Figma](https://www.figma.com/proto/M9rnI8I872eW8qKjSMgSBy/Yuzin?node-id=13%3A2&scaling=min-zoom&page-id=7%3A2)
+
+![Hifi](./Images/demo.gif)
